@@ -1,17 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
+  - title: "Updates"
     url: /posts/
-  - title: "Availability"
-    url: /availability/
-  - title: "Contact Us"
-    url: /contact-us/
-  - title: "Local Attractions"
-    url: /local-attractions/
   - title: "Location"
     url: /location/
   - title: "Gallery"
     url: /photo-gallery/
-  - title: "Rates and Policies"
-    url: /rates-policies/
+  - title: "Contact Us"
+    url: /contact/

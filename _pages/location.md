@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-redirect_from: /rates-policies/
+permalink: /location/
+title: "Location"
+redirect_from: /local-attractions/
 
 layout: single
 
@@ -19,4 +19,4 @@ sidebar:
 
 ---
 
-The Mountain Breeze River Cabin is not currently available for rental.  Please [contact us](/contact/) if you'd like to be notified when it's available again!
+The Cabin is located on the South Fork of the Shenendoah River, near Rileyville, VA.
