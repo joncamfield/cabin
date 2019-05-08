@@ -1,11 +1,13 @@
 main:
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
   - title: "Updates"
     url: /posts/
-  - title: "Location"
-    url: /location/
-  - title: "Gallery"
-    url: /photo-gallery/
+#  - title: "Location"
+#    url: /location/
+#  - title: "Availability"
+#    url: /availability/
+#  - title: "Gallery"
+#    url: /photo-gallery/
   - title: "Contact Us"
     url: /contact/
