@@ -4,11 +4,11 @@ classes:
   - landing
 excerpt: "Coming (Back) Soon!"
 header:
-  overlay_image: /assets/images/cabin-front.jpg
+  overlay_image: /assets/images/fall-foliage.jpg
   caption: "Looking up at the cabin from the river"
 
 feature_row:
-  - image_path: assets/images/campfire.jpg
+  - image_path: assets/images/cabin-front.jpg
     alt: "placeholder image 1"
     title: "Private cabin on the river"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -20,16 +20,16 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/MountainBreezeRiverCabin.jpg
+  - image_path: /assets/images/campfire.jpg
     title: "Great family or romantic getaway"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/fall-foliage.jpg
+  - image_path: /assets/images/cabin-front.jpg
     alt: "Fall Foliage"
-    title: "Enjoy every season"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Updates"
+    excerpt: 'Learn about what is going on at the cabin!'
+    url: "posts"
+    btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/MountainBreezeRiverCabin.jpg
@@ -44,17 +44,9 @@ feature_row3:
 
 # Mountain Breeze River Chalet
 
-The Mountain Breeze River Cabin is not currently available for rental. Please [contact us])(contact) if you’d like to be notified when it’s available again!
-
-    {% include feature_row id="intro" type="center" %}
-
-<!--    {% include feature_row %} -->
+The Mountain Breeze River Cabin is not currently available for rental. Please **[contact us](contact)** if you’d like to be notified when it’s available again!
 
     {% include feature_row id="feature_row2" type="left" %}
-
-    {% include feature_row id="feature_row3" type="right" %}
-
-    {% include feature_row id="feature_row4" type="center" %}
 
 <!--
 * Looking for mountain lodging?

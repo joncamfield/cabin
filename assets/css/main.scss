@@ -7,7 +7,17 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__hero--overlay {
+.layout--splash .page__hero--overlay {
   padding: 18em 0;
+  background-attachment: fixed;
+}
+
+.layout--single .page__hero--overlay {
+  padding: 10em 0;
+  background-attachment: fixed;
+}
+
+.layout--single .page__hero--overlay {
+  padding: 10em 0; 
   background-attachment: fixed;
 }
