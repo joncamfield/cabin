@@ -18,7 +18,7 @@ sidebar:
 
 gallery:
   - url: /assets/images/cabin-front.jpg
-    image_path: /assets/images/cabin-front.jpg.jpg
+    image_path: /assets/images/cabin-front.jpg
     alt: "The Cabin looking up from the yard"
     title: "The Cabin looking up from the yard"
   - url: /assets/images/fall-foliage.jpg
@@ -36,4 +36,4 @@ gallery:
 ## Coming soon
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Photos of Mountain Breeze River Cabin" %}
