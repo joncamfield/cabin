@@ -1,5 +1,5 @@
 ---
-title: "Big Changes at the little cabin!"
+title: "Some Backstory"
 excerpt_separator: "<!--more-->"
 author_profile: false
 layout: single
