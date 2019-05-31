@@ -6,8 +6,8 @@ layout: single
 
 excerpt: ""
 header:
-    overlay_image: /assets/images/MountainBreezeRiverCabin.jpg
-    caption: "Photo credit: MBRC"
+    overlay_image: /assets/images/cabinfromriver.jpg
+    caption: ""
   #  cta_label: "More Info"
   #  cta_url: "https://unsplash.com"
 
@@ -37,6 +37,10 @@ gallery:
     image_path: /assets/images/cabinfromriver.thumb.jpg
     alt: "The cabin looking up from in the river"
     title: "The cabin looking up from in the river"
+  - url: /assets/images/campfire.jpg
+    image_path: /assets/images/campfire.thumb.jpg
+    alt: "Riverside campfires"
+    title: "Riverside campfires"
 
 
 
