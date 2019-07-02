@@ -7,7 +7,7 @@ main:
 #    url: /location/
 #  - title: "Availability"
 #    url: /availability/
-#  - title: "Gallery"
-#    url: /photo-gallery/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Contact Us"
     url: /contact/
