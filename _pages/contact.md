@@ -19,4 +19,4 @@ sidebar:
 
 ---
 
-Please email us at **[cabin@mountainbreezeriver.com](mailto:cabin@mountainbreezeriver.com)** if you're interested in hearing when we re-open the cabin for rentals!
+You can reach us at **[cabin@mountainbreezeriver.com](mailto:cabin@mountainbreezeriver.com)** 

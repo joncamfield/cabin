@@ -2,7 +2,7 @@
 layout: splash
 classes:
   - landing
-excerpt: "Coming (Back) Soon!"
+excerpt: ""
 header:
   overlay_image: /assets/images/fall-foliage.jpg
   caption: "Looking up at the cabin from the river"
@@ -44,7 +44,7 @@ feature_row3:
 
 # Mountain Breeze River Chalet
 
-The Mountain Breeze River Cabin is not currently available for rental. Please **[contact us](contact)** if you’d like to be notified when it’s available again!
+The Mountain Breeze River Cabin is not currently available for rental. Follow the cabin **[blog](blog)** for more updates!
 
     {% include feature_row id="feature_row2" type="left" %}
 
