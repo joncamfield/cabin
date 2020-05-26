@@ -9,5 +9,5 @@ main:
 #    url: /availability/
   - title: "Gallery"
     url: /gallery/
-  - title: "Contact Us"
-    url: /contact/
+#  - title: "Contact Us"
+#    url: /contact/

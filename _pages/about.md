@@ -19,4 +19,4 @@ sidebar:
 
 ---
 
-The Mountain Breeze River Cabin is not currently available for rental.  Please [contact us](/contact/) if you'd like to be notified when it's available again!
+The Mountain Breeze River Cabin is not currently available for rental.  /Follow our [blog](/posts) for updates!

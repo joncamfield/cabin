@@ -19,4 +19,4 @@ sidebar:
 
 ---
 
-The Cabin is located on the South Fork of the Shenendoah River, near Rileyville, VA.
+The Cabin is located on the South Fork of the Shenandoah River, near Rileyville, VA.
