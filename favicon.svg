@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="favicon.svg">
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/jon/github/cabin/logo.png"
+   inkscape:export-xdpi="15.48"
+   inkscape:export-ydpi="15.48">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3938954"
-     inkscape:cx="-1605.3908"
-     inkscape:cy="432.2197"
+     inkscape:zoom="0.55705222"
+     inkscape:cx="-133.74551"
+     inkscape:cy="232.20711"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +38,8 @@
      inkscape:window-height="1376"
      inkscape:window-x="70"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,23 +59,40 @@
      transform="translate(0,-87)">
     <path
        style="opacity:0.93999999;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 261.52179,260.223 139.43548,91.078581"
+       d="M 261.52179,272.92308 139.43548,103.77861"
        id="path3727"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="15.48"
+       inkscape:export-ydpi="15.48" />
     <path
        style="opacity:0.93999999;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -0.18911916,260.35325 139.40953,90.039777"
+       d="M -0.18911916,273.05333 139.40953,102.7398"
        id="path3729"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="15.48"
+       inkscape:export-ydpi="15.48" />
     <path
        style="opacity:0.93999999;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 255.88982,211.53951 c -36.6455,-29.46579 -91.87195,-27.32795 -131.7247,-4.15774 -43.297096,25.17276 -73.925974,64.28561 -129.267807,58.96428 -7.725013,-0.74279 -26.757594,-1.56509 -31.749996,-7.18154"
+       d="m 255.88982,224.23959 c -36.6455,-29.46579 -91.87195,-27.32795 -131.7247,-4.15774 -43.297096,25.17276 -73.925974,64.28561 -129.267807,58.96428 -7.725013,-0.74279 -26.757594,-1.56509 -31.749996,-7.18154"
        id="path3733"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="15.48"
+       inkscape:export-ydpi="15.48" />
     <path
        style="opacity:0.93999999;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 220.98443,223.98859 c -54.42117,-10.16794 -82.02739,19.82612 -121.075657,51.21787 -22.331844,17.9532 -48.095342,32.2572 -75.567135,40.63843 -9.474022,2.89038 -28.1906527,11.55656 -37.61572,4.70196"
+       d="m 220.98443,226.63444 c -54.42117,-10.16794 -82.02739,19.82612 -121.075657,51.21787 -22.331844,17.9532 -48.095342,32.2572 -75.567135,40.63843 -9.474022,2.89038 -28.1906527,11.55656 -37.61572,4.70196"
        id="path3737"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="15.48"
+       inkscape:export-ydpi="15.48" />
+    <rect
+       inkscape:export-xdpi="15.48"
+       inkscape:export-ydpi="15.48"
+       style="opacity:0.93999999;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect829"
+       width="211.36183"
+       height="213.26172"
+       x="0.47497043"
+       y="88.487976" />
   </g>
 </svg>
