@@ -21,10 +21,10 @@ gallery:
   image_path: /assets/images/cabin-wineberries.thumb.jpg
   alt: "View of Cabin with wineberries in the foreground"
   title: "View of Cabin with wineberries in the foreground"
-- url: /assets/images/mantle-fish.jpg
-  image_path: /assets/images/mantle-fish.thumb.jpg
-  alt: "The cabin's fireplace"
-  title: "The cabin's fireplace"
+#- url: /assets/images/mantle-fish.jpg
+#  image_path: /assets/images/mantle-fish.thumb.jpg
+#  alt: "The cabin's fireplace"
+#  title: "The cabin's fireplace"
 #- url: /assets/images/cabin-front.jpg
 #  image_path: /assets/images/cabin-front.thumb.jpg
 #  alt: "The Cabin looking up from the yard"
@@ -45,10 +45,10 @@ gallery:
   image_path: /assets/images/cabinfromriver.thumb.jpg
   alt: "The cabin looking up from in the river"
   title: "The cabin looking up from in the river"
-- url: /assets/images/campfire.jpg
-  image_path: /assets/images/campfire.thumb.jpg
-  alt: "Riverside campfires"
-  title: "Riverside campfires"
+#- url: /assets/images/campfire.jpg
+#  image_path: /assets/images/campfire.thumb.jpg
+#  alt: "Riverside campfires"
+#  title: "Riverside campfires"
 - url: /assets/images/woodshed.jpg
   image_path: /assets/images/woodshed.thumb.jpg
   alt: "Woodshed by the firepit"
@@ -61,7 +61,26 @@ gallery:
   image_path: /assets/images/cabin-driveway.thumb.jpg
   alt: "The Cabin, river, and driveway/front door"
   title: "The Cabin, river, and driveway/front door"
-
+- url: /assets/images/cabin-lr-fireplace.jpg
+  image_path: /assets/images/cabin-lr-fireplace.thumb.jpg
+  alt: "The Cabin Living Room and Fireplace"
+  title: "The Cabin Living Room and Fireplace"
+- url: /assets/images/cabin-dining-lr.jpg
+  image_path: /assets/images/cabin-dining-lr.thumb.jpg
+  alt: "Dining Table and Couch"
+  title: "Dining Table and Couch"
+- url: /assets/images/cabin-deck.jpg
+  image_path: /assets/images/cabin-deck.thumb.jpg
+  alt: "Cabin Deck and Hot Tub overlooking the river"
+  title: "Cabin Deck and Hot Tub overlooking the river"
+- url: /assets/images/river-from-firepit.jpg
+  image_path: /assets/images/river-from-firepit.thumb.jpg
+  alt: "South Fork of the Shenandoah River from the firepit level"
+  title: "South Fork of the Shenandoah River from the firepit level"
+- url: /assets/images/firepit.jpg
+  image_path: /assets/images/firepit.thumb.jpg
+  alt: "The firepit, stairs, and wood shed"
+  title: "The firepit, stairs, and wood shed"
 ---
 
 ## Photos from the cabin!
