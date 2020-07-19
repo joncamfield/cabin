@@ -21,6 +21,42 @@ gallery:
   image_path: /assets/images/cabin-wineberries.thumb.jpg
   alt: "View of Cabin with wineberries in the foreground"
   title: "View of Cabin with wineberries in the foreground"
+- url: /assets/images/cabin-driveway.jpg
+  image_path: /assets/images/cabin-driveway.thumb.jpg
+  alt: "The Cabin, river, and driveway/front door"
+  title: "The Cabin, river, and driveway/front door"
+- url: /assets/images/cabin-lr-fireplace.jpg
+  image_path: /assets/images/cabin-lr-fireplace.thumb.jpg
+  alt: "The Cabin Living Room and Fireplace"
+  title: "The Cabin Living Room and Fireplace"
+- url: /assets/images/cabin-dining-lr.jpg
+  image_path: /assets/images/cabin-dining-lr.thumb.jpg
+  alt: "Dining Table and Couch"
+  title: "Dining Table and Couch"
+- url: /assets/images/cabin-deck.jpg
+  image_path: /assets/images/cabin-deck.thumb.jpg
+  alt: "Cabin Deck and Hot Tub overlooking the river"
+  title: "Cabin Deck and Hot Tub overlooking the river"
+- url: /assets/images/cabin_downstairs.jpg
+  image_path: /assets/images/cabin_downstairs.thumb.jpg
+  alt: "Cabin Downstairs"
+  title: "Cabin Downstairs"
+- url: /assets/images/cabin_downstairs-couch.JPG
+  image_path: /assets/images/cabin_downstairs-couch.thumb.JPG
+  alt: "Cabin Downstairs King bed couch"
+  title: "Cabin Downstairs King bed couch"
+- url: /assets/images/cabin_steps-river.jpg
+  image_path: /assets/images/cabin_steps-river.thumb.jpg
+  alt: "New steps down to firepit and river"
+  title: "New steps down to firepit and river"
+- url: /assets/images/river-from-firepit.jpg
+  image_path: /assets/images/river-from-firepit.thumb.jpg
+  alt: "South Fork of the Shenandoah River from the firepit level"
+  title: "South Fork of the Shenandoah River from the firepit level"
+- url: /assets/images/firepit.jpg
+  image_path: /assets/images/firepit.thumb.jpg
+  alt: "The firepit, stairs, and wood shed"
+  title: "The firepit, stairs, and wood shed"
 #- url: /assets/images/mantle-fish.jpg
 #  image_path: /assets/images/mantle-fish.thumb.jpg
 #  alt: "The cabin's fireplace"
@@ -57,30 +93,6 @@ gallery:
   image_path: /assets/images/wineberries.thumb.jpg
   alt: "Wineberries in June/July"
   title: "Wineberries in June/July"
-- url: /assets/images/cabin-driveway.jpg
-  image_path: /assets/images/cabin-driveway.thumb.jpg
-  alt: "The Cabin, river, and driveway/front door"
-  title: "The Cabin, river, and driveway/front door"
-- url: /assets/images/cabin-lr-fireplace.jpg
-  image_path: /assets/images/cabin-lr-fireplace.thumb.jpg
-  alt: "The Cabin Living Room and Fireplace"
-  title: "The Cabin Living Room and Fireplace"
-- url: /assets/images/cabin-dining-lr.jpg
-  image_path: /assets/images/cabin-dining-lr.thumb.jpg
-  alt: "Dining Table and Couch"
-  title: "Dining Table and Couch"
-- url: /assets/images/cabin-deck.jpg
-  image_path: /assets/images/cabin-deck.thumb.jpg
-  alt: "Cabin Deck and Hot Tub overlooking the river"
-  title: "Cabin Deck and Hot Tub overlooking the river"
-- url: /assets/images/river-from-firepit.jpg
-  image_path: /assets/images/river-from-firepit.thumb.jpg
-  alt: "South Fork of the Shenandoah River from the firepit level"
-  title: "South Fork of the Shenandoah River from the firepit level"
-- url: /assets/images/firepit.jpg
-  image_path: /assets/images/firepit.thumb.jpg
-  alt: "The firepit, stairs, and wood shed"
-  title: "The firepit, stairs, and wood shed"
 ---
 
 ## Photos from the cabin!
