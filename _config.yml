@@ -11,19 +11,19 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Prose settings
 prose:
-  #rooturl: "_posts" # Restricts authoring access to a directory
+  rooturl: '_posts' # Restricts authoring access to a directory
   #ignore: ['file_a.html', '_config.yml'] # 
-  siteurl: "https://mountainbreezeriver.com/" # Turns on Jekyll live previews. The url is the homepage of the live site.
-  media: "/assets/images"  #Specify a media directory uploading images defaults to. When media is added to this directory, a listing of available assets is populated from the image dropdown link on markdown files
+  siteurl: 'https://mountainbreezeriver.com/' # Turns on Jekyll live previews. The url is the homepage of the live site.
+  media: '/assets/images'  #Specify a media directory uploading images defaults to. When media is added to this directory, a listing of available assets is populated from the image dropdown link on markdown files
   # relativeLinks: "ABSOLUTE-URL.JSONP" # Displays a list of links to a user from the link dropdown on markdown files. The url should be JSONP and structured as an array of objects
   metadata:
     _posts:
       - name: "title"
-          field:
-            element: "text"
-            label: "title"
-            
-           
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Mountain Breeze River Cabin"
