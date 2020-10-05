@@ -93,6 +93,19 @@ gallery:
   image_path: /assets/images/wineberries.thumb.jpg
   alt: "Wineberries in June/July"
   title: "Wineberries in June/July"
+- url: /assets/images/outdoor-shower.jpg
+  image_path: /assets/images/outdoor-shower.thumb.jpg
+  alt: "New Outdoor Shower for 2020"
+  title: "New Outdoor Shower for 2020"
+- url: /assets/images/stairs.jpg
+  image_path: /assets/images/stairs.thumb.jpg
+  alt: "Stairs down towards river"
+  title: "Stairs down towards river"
+- url: /assets/images/stairs-and-cabin.jpg
+  image_path: /assets/images/stairs-and-cabin.thumb.jpg
+  alt: "New Stairs and Cabin"
+  title: "New Stairs and Cabin"
+
 ---
 
 ## Photos from the cabin!
