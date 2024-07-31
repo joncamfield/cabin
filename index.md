@@ -44,7 +44,7 @@ feature_row3:
 
 # Mountain Breeze River Chalet
 
-The Mountain Breeze River Cabin is not currently available for rental. Follow the cabin **[blog](posts)** for more updates!
+The Mountain Breeze River Cabin is no longer available for rental.
 
     {% include feature_row id="feature_row2" type="left" %}
 
